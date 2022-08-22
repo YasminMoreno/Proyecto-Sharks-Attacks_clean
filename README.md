@@ -32,7 +32,7 @@ Posteriormente tendremos que crear unos gráficos para sacar unas conclusiones f
 ## Conclusiones
 
 - La especie más peligrosa es el tiburón blanco con 431 ataques a humanos.
-- Los ataques de tiburón afectan más a los hombres que a las mujeres, exactamente en un 87% más de los casos.
+- Los ataques de tiburón afectan más a los hombres que a las mujeres, exactamente en un 87% de los casos.
 - Entre todos los ataques de tiburón un 15% acaba en ataques mortales.
 - Los países donde se han registrado un mayor volumen de casos ha sido en USA con 833 ataques, seguidos de Australia, Sudáfrica, Bahamas y Nueva Zelanda.
 - Los jóvenes entre 18 y 29 años han sido el grupo de edad con mayor ataque de tiburones. Reduciendose los casos conforme ascienden las edades. 
