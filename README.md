@@ -36,5 +36,5 @@ Posteriormente tendremos que crear unos gráficos para sacar unas conclusiones f
 - Entre todos los ataques de tiburón un 15% acaba en ataques mortales.
 - Los países donde se han registrado un mayor volumen de casos ha sido en USA con 833 ataques, seguidos de Australia, Sudáfrica, Bahamas y Nueva Zelanda.
 - Los jóvenes entre 18 y 29 años han sido el grupo de edad con mayor ataque de tiburones. Reduciendose los casos conforme ascienden las edades. 
-- La evolución por décadas ha sido ascendente entre los años 1980 y 2000 manteniendose más estable en los últimos aós con una bajada de los casos en la época COVID.
+- La evolución por décadas ha sido ascendente entre los años 1980 y 2000 manteniendose más estable en los últimos años con una bajada de los casos en la época COVID.
 
